@@ -108,9 +108,30 @@ img{max-width:100%}
   .grid2{grid-template-columns:1fr}
   .slide{padding-block:52px 80px}
 }
+
+/* search */
+.search{position:fixed;top:calc(8px + env(safe-area-inset-top,0px));right:max(24px,env(safe-area-inset-right,0px));z-index:6;width:min(360px,60vw)}
+.search input{width:100%;font:500 14px var(--body);border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:8px 14px 8px 36px;outline:none}
+.search input:focus{border-color:var(--accent)}
+.search .ico{position:absolute;left:13px;top:50%;transform:translateY(-50%);width:14px;height:14px;pointer-events:none}
+.search .ico circle,.search .ico line{stroke:var(--muted);stroke-width:2;fill:none}
+.results{position:absolute;top:calc(100% + 6px);left:0;right:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;box-shadow:0 20px 40px -20px rgba(42,14,20,.3);max-height:60vh;overflow:auto;padding:6px}
+.results[hidden]{display:none}
+.results button{display:flex;align-items:center;gap:10px;width:100%;text-align:left;border:0;background:none;padding:8px 10px;border-radius:10px;cursor:pointer;color:var(--fg);font:inherit}
+.results button:hover,.results button.sel{background:var(--accent-soft)}
+.results .rd{flex:0 0 32px;font:800 11px var(--display);color:var(--accent)}
+.results .rn{font-weight:700;font-size:13px;line-height:1.3}
+.results .rb{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.results .none{padding:10px;font-size:13px;color:var(--muted)}
+@media(max-width:600px){.brandtag{display:none}.search{left:max(24px,env(safe-area-inset-left,0px));width:auto}}
 </style>
 
 <div class="brandtag">MiiN <span>·</span> Advent Calendar 2026</div>
+<div class="search">
+  <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+  <input id="q" type="search" placeholder="Buscar producto, marca o categoría…" autocomplete="off" aria-label="Buscar producto">
+  <div class="results" id="res" hidden></div>
+</div>
 <div class="bar"><i id="prog"></i></div>
 
 <div class="deck" id="deck">
@@ -902,6 +923,31 @@ img{max-width:100%}
   var x0=null;
   document.addEventListener('touchstart',function(e){x0=e.touches[0].clientX},{passive:true});
   document.addEventListener('touchend',function(e){if(x0==null)return;var dx=e.changedTouches[0].clientX-x0;if(Math.abs(dx)>60)show(dx<0?i+1:i-1);x0=null});
+
+  /* search */
+  var q=document.getElementById('q'),res=document.getElementById('res'),sel=-1;
+  var items=[].slice.call(document.querySelectorAll('.slide.product')).map(function(s){return{el:s,day:s.dataset.day,name:s.querySelector('h2').textContent,brand:s.querySelector('.brand').textContent,cat:s.querySelector('.cat').textContent}});
+  function norm(x){return x.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')}
+  function render(){
+    var v=norm(q.value.trim());sel=-1;
+    if(!v){res.hidden=true;res.innerHTML='';return}
+    var hits=items.filter(function(it){return norm(it.name+' '+it.brand+' '+it.cat).indexOf(v)>-1});
+    res.innerHTML=hits.length?hits.map(function(it){return '<button type="button" data-day="'+it.day+'"><span class="rd">D'+it.day+'</span><span><span class="rn">'+it.name+'</span><br><span class="rb">'+it.brand+' · '+it.cat+'</span></span></button>'}).join(''):'<div class="none">Sin resultados</div>';
+    res.hidden=false;
+  }
+  function go(day){var el=document.getElementById('d'+day);if(el){show(slides.indexOf(el));q.value='';res.hidden=true;q.blur();}}
+  q.addEventListener('input',render);
+  q.addEventListener('focus',render);
+  q.addEventListener('keydown',function(ev){
+    var bs=res.querySelectorAll('button');
+    if(ev.key==='ArrowDown'||ev.key==='ArrowUp'){ev.preventDefault();ev.stopPropagation();if(!bs.length)return;sel=(sel+(ev.key==='ArrowDown'?1:-1)+bs.length)%bs.length;bs.forEach(function(b,k){b.classList.toggle('sel',k===sel)});bs[sel].scrollIntoView({block:'nearest'})}
+    else if(ev.key==='Enter'){ev.preventDefault();var b=bs[sel>-1?sel:0];if(b)go(b.dataset.day)}
+    else if(ev.key==='Escape'){q.value='';res.hidden=true;q.blur()}
+    else{ev.stopPropagation()}
+  });
+  res.addEventListener('click',function(ev){var b=ev.target.closest('button');if(b)go(b.dataset.day)});
+  document.addEventListener('click',function(ev){if(!ev.target.closest('.search'))res.hidden=true});
+  document.addEventListener('keydown',function(ev){if(ev.key==='/'&&document.activeElement!==q){ev.preventDefault();q.focus()}});
   fromHash(); show(i);
 })();
 </script>
