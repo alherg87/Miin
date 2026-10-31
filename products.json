@@ -1,0 +1,611 @@
+[
+ {
+  "nombre": "PHA & Saponaria Purifying Foaming Cleanser",
+  "marca": "Ondo Beauty 36.5",
+  "formato": "150 ml, full-size",
+  "categoria": "Limpiador",
+  "descripcion": "Espuma limpiadora diaria de textura mousse con microburbujas, formulada sin jabón tradicional y con pH ligeramente ácido para respetar la barrera cutánea. Combina un 2 % de gluconolactona (PHA) con saponinas de origen vegetal para limpiar en profundidad y exfoliar con suavidad, sin dejar tirantez. Su aroma cítrico procede del aceite de bergamota.",
+  "ingredientes_clave": [
+   "Gluconolactona (PHA 2 %)",
+   "Extracto de hoja de saponaria",
+   "Extracto de hoja de fresa",
+   "Agua de aciano azul",
+   "Glicerina"
+  ],
+  "modo_de_uso": [
+   "Agita el envase unos segundos.",
+   "Aplica la cantidad deseada sobre el rostro húmedo (también cuello y escote).",
+   "Masajea suavemente evitando el contorno de ojos.",
+   "Aclara con agua tibia.",
+   "Úsalo mañana y/o noche a diario; por la mañana termina siempre con protector solar."
+  ],
+  "beneficios": [
+   "Exfolia suavemente sin irritar",
+   "Limpia sin resecar ni tirantez",
+   "Piel fresca, hidratada y luminosa"
+  ],
+  "tipo_de_piel": "Todo tipo de piel, especialmente seca, deshidratada y sensible.",
+  "imagen_url": "https://miin-cosmetics.com/8325-large_default/pha-saponaria-purifying-foaming-facial-cleanser.jpg",
+  "url_producto": "https://miin-cosmetics.com/1406-pha-saponaria-purifying-foaming-facial-cleanser.html",
+  "precio": "19,99 €"
+ },
+ {
+  "nombre": "Birch Juice Moisturizing Sunscreen SPF50+ PA++++",
+  "marca": "Round Lab",
+  "formato": "50 ml, full-size",
+  "categoria": "Protector solar",
+  "descripcion": "El protector solar más vendido de Corea del Sur, novedad en MiiN. Textura ligera tipo esencia que protege frente a UVA y UVB con SPF50+ PA++++ y se absorbe rápido sin residuo blanco ni sensación pegajosa. La savia de abedul y el ácido hialurónico hidratan, mientras que la niacinamida y las vitaminas C y E unifican el tono y aportan acción antioxidante.",
+  "ingredientes_clave": [
+   "Savia de abedul",
+   "Ácido hialurónico",
+   "Niacinamida",
+   "Vitaminas C y E",
+   "Adenosina"
+  ],
+  "modo_de_uso": [
+   "Úsalo cada mañana como último paso de la rutina, tras la crema hidratante.",
+   "Aplica una cantidad generosa sobre rostro y cuello.",
+   "Extiende de forma uniforme y da pequeños toques hasta que se absorba.",
+   "Reaplica cada 2-3 horas si hay exposición prolongada al sol."
+  ],
+  "beneficios": [
+   "Protección solar muy alta de amplio espectro",
+   "Hidrata sin pesar ni dejar marca blanca",
+   "Ayuda a prevenir manchas y aporta antioxidantes"
+  ],
+  "tipo_de_piel": "Todo tipo de piel, incluida la sensible y deshidratada.",
+  "imagen_url": "https://saranghae.es/cdn/shop/files/round-lab-birch-juice-moisturizing-sunscreen-50ml-999844.webp",
+  "url_producto": "https://saranghae.es/en/collections/all/products/birch-juice-moisturizing-sunscreen-50ml",
+  "precio": "≈ 15,60 €"
+ },
+ {
+  "nombre": "Pink Vita PDRN Bubble-Tox Ampoule",
+  "marca": "omitted.",
+  "formato": "90 ml, full-size",
+  "categoria": "Ampolla / Sérum",
+  "descripcion": "Ampolla reafirmante con microburbujas y perlas de ceramida en suspensión que se funden al aplicarse, dejando un acabado jugoso y luminoso. Combina PDRN de origen vegetal con vitamina B12 (de ahí su tono rosado) y centella asiática para mejorar la elasticidad, hidratar en profundidad y reforzar la barrera cutánea.",
+  "ingredientes_clave": [
+   "PDRN vegetal (6.000 ppm)",
+   "Vitamina B12",
+   "Centella asiática",
+   "Ceramida NP",
+   "Niacinamida y ácido hialurónico"
+  ],
+  "modo_de_uso": [
+   "Agita el frasco para mezclar las perlas con la ampolla.",
+   "Tras el tónico, mañana y noche, dispensa 2-3 pulsaciones en la mano.",
+   "Reparte por el rostro con movimientos suaves y da toques hasta que se absorba.",
+   "Continúa con la crema hidratante (y protector solar por la mañana)."
+  ],
+  "beneficios": [
+   "Piel más firme y elástica",
+   "Hidratación profunda y barrera reforzada",
+   "Tono más uniforme y luminoso"
+  ],
+  "tipo_de_piel": "Todo tipo de piel, incluida la sensible.",
+  "imagen_url": "https://pureseoul.co.uk/cdn/shop/files/OMITTED-Pink-Vita-PDRN-Bubble-Tox-Ampoule-90ml-PURESEOUL-UK-KBeauty-Shop.webp",
+  "url_producto": "https://pureseoul.co.uk/products/omitted-pink-vita-pdrn-bubble-tox-ampoule",
+  "precio": "≈ 25 €"
+ },
+ {
+  "nombre": "Centella Calming Ampoule Toner",
+  "marca": "Barr",
+  "formato": "32 ml, travel-size",
+  "categoria": "Tónico",
+  "descripcion": "Tónico-ampolla 2 en 1 con alrededor de un 80 % de extractos de centella asiática que calma, equilibra el pH y nutre la piel en un solo paso. Su fórmula ligeramente ácida con pantenol y Houttuynia cordata reduce rojeces e irritación y limita la pérdida de agua, dejando la piel suave y luminosa. Vegano y natural.",
+  "ingredientes_clave": [
+   "Agua y extracto de centella asiática",
+   "Pantenol (vitamina B5)",
+   "Houttuynia cordata",
+   "Aceite de jojoba",
+   "Ceramida NP y hialuronato sódico"
+  ],
+  "modo_de_uso": [
+   "Tras la limpieza, mañana y noche, vierte una pequeña cantidad en las manos.",
+   "Presiona las palmas contra el rostro hasta que se absorba.",
+   "Aplica más capas los días que exfolies o si la piel está muy deshidratada.",
+   "Como mascarilla calmante, empapa dos discos de algodón y déjalos 15 minutos sobre las zonas con rojeces."
+  ],
+  "beneficios": [
+   "Calma rojeces e irritación",
+   "Equilibra el pH e hidrata",
+   "Favorece la regeneración y deja la piel suave"
+  ],
+  "tipo_de_piel": "Piel sensible o deshidratada; también normal, mixta, grasa y con tendencia acneica.",
+  "imagen_url": "https://miin-cosmetics.com/8562-large_default/centella-calming-ampoule-toner.jpg",
+  "url_producto": "https://miin-cosmetics.com/696-centella-calming-ampoule-toner.html",
+  "precio": "29,95 € (200 ml)"
+ },
+ {
+  "nombre": "Organic Flowers Hydrogel Mask",
+  "marca": "Whamisa",
+  "formato": "25 g, mascarilla",
+  "categoria": "Mascarilla",
+  "descripcion": "Mascarilla facial de hidrogel elaborada con ingredientes orgánicos fermentados, entre ellos extractos de crisantemo, diente de león, loto y aloe. El hidrogel se adhiere al rostro como una segunda piel y favorece la penetración de los activos, aportando hidratación intensa, luminosidad y confort inmediato. Tratamiento de choque para pieles apagadas o estresadas.",
+  "ingredientes_clave": [
+   "Extracto de aloe",
+   "Fermentados de crisantemo, diente de león y loto",
+   "Rhodiola rosea",
+   "Aceite de semilla de camelia",
+   "Alfa-bisabolol"
+  ],
+  "modo_de_uso": [
+   "Limpia y tonifica el rostro (preferiblemente por la noche).",
+   "Coloca las dos piezas de hidrogel: la superior en la zona de ojos y la inferior en nariz y boca.",
+   "Deja actuar entre 20 y 30 minutos.",
+   "Retira y masajea el sérum restante; extiende el exceso por cuello y escote.",
+   "Úsala 1-2 veces por semana o como tratamiento puntual."
+  ],
+  "beneficios": [
+   "Hidratación intensa inmediata",
+   "Piel más luminosa y uniforme",
+   "Efecto calmante para pieles estresadas"
+  ],
+  "tipo_de_piel": "Todo tipo de piel, incluida la sensible; ideal para piel apagada y deshidratada.",
+  "imagen_url": "https://ec.nice-cdn.com/upload/image/product/large/default/whamisa-organic-flowers-hydrogel-mask-1923876-en.jpg",
+  "url_producto": "https://www.ecco-verde.co.uk/whamisa/organic-flowers-hydrogel-mask",
+  "precio": "≈ 6,50 €"
+ },
+ {
+  "nombre": "Freshly Juiced Vitamin Essence Toner",
+  "marca": "Klairs",
+  "formato": "180 ml, full-size",
+  "categoria": "Tónico",
+  "descripcion": "Híbrido entre tónico y esencia, de base acuosa y absorción rápida, pensado para devolver luminosidad a la piel apagada. Combina vitamina C con glutatión liposomado y PDRN de origen vegetal para unificar el tono, mejorar la textura y atenuar manchas, hidratando sin sensación pesada. Vegano, sin alcohol ni perfume artificial.",
+  "ingredientes_clave": [
+   "Vitamina C",
+   "Glutatión liposomado",
+   "PDRN vegetal",
+   "Niacinamida",
+   "Ácido hialurónico y ácido ferúlico"
+  ],
+  "modo_de_uso": [
+   "Úsalo mañana y noche tras la limpieza y antes del sérum.",
+   "Aplica una cantidad moderada con las manos o con un disco de algodón.",
+   "Da toques suaves hasta su completa absorción.",
+   "Por la mañana, termina siempre con protector solar."
+  ],
+  "beneficios": [
+   "Ilumina y unifica el tono",
+   "Atenúa manchas y mejora la textura",
+   "Hidrata sin pesadez ni pegajosidad"
+  ],
+  "tipo_de_piel": "Todo tipo de piel: grasa, mixta, seca, normal y sensible.",
+  "imagen_url": "https://miin-cosmetics.com/11871-large_default/freshly-juiced-vitamin-essence-toner.jpg",
+  "url_producto": "https://miin-cosmetics.com/2349-freshly-juiced-vitamin-essence-toner.html",
+  "precio": "19,99 €"
+ },
+ {
+  "nombre": "PDRN Capsule Cream 100",
+  "marca": "VT Cosmetics",
+  "formato": "50 ml, full-size",
+  "categoria": "Crema",
+  "descripcion": "Crema reparadora con PDRN encapsulado que se funde al masajear sobre la piel. Está pensada para acompañar la recuperación cutánea, mejorar la elasticidad y aportar una hidratación duradera sin sensación pegajosa. Vegana, sin alcohol ni perfume, apta para uso diario.",
+  "ingredientes_clave": [
+   "PDRN (ADN de salmón)",
+   "Ceramida NP",
+   "Complejo de ácidos hialurónicos",
+   "Niacinamida",
+   "Péptidos (tripéptido-1, tripéptido de cobre)"
+  ],
+  "modo_de_uso": [
+   "Limpia el rostro y aplica tónico y sérum.",
+   "Toma una pequeña cantidad y mézclala en la palma hasta que las cápsulas se integren en la base.",
+   "Masajea suavemente sobre rostro y cuello hasta su absorción.",
+   "Úsala como último paso de la rutina, mañana y noche (por la mañana, termina con protector solar)."
+  ],
+  "beneficios": [
+   "Favorece la reparación y recuperación de la piel",
+   "Hidratación intensa y prolongada",
+   "Refuerza la barrera cutánea y mejora la elasticidad"
+  ],
+  "tipo_de_piel": "Todo tipo de pieles; especialmente piel seca, sensible, madura o con la barrera debilitada.",
+  "imagen_url": "https://miinme.ch/cdn/shop/files/VTCOSMETICSPDRNCapsuleCream100.jpg",
+  "url_producto": "https://miinme.ch/products/vt-cosmetics-pdrn-capsule-cream-100",
+  "precio": "≈ 25,95 €"
+ },
+ {
+  "nombre": "Centella Asiatica Extract",
+  "marca": "One Thing",
+  "formato": "40 ml, travel-size",
+  "categoria": "Tónico",
+  "descripcion": "Tónico de fórmula minimalista a base de extracto concentrado de centella asiática. Calma la piel, ayuda a reducir las rojeces y acompaña la reparación cutánea gracias a su acción antioxidante. Vegano y sin perfume, muy versátil: funciona como tónico, mascarilla exprés o bruma.",
+  "ingredientes_clave": [
+   "Extracto de centella asiática",
+   "Butilenglicol",
+   "1,2-hexanodiol"
+  ],
+  "modo_de_uso": [
+   "Tras la doble limpieza, mañana y noche, aplica unas gotas en las palmas o en un disco de algodón.",
+   "Reparte sobre el rostro con pequeños toques hasta su absorción.",
+   "Opcional: empapa discos de algodón y déjalos 2-3 minutos como mascarilla calmante.",
+   "Opcional: trasvasa una parte a un vaporizador y úsala como mist durante el día.",
+   "Continúa con sérum y crema."
+  ],
+  "beneficios": [
+   "Calma rojeces e irritaciones",
+   "Acción antioxidante y reparadora",
+   "Ayuda a difuminar marquitas"
+  ],
+  "tipo_de_piel": "Piel normal, sensible y con tendencia acneica.",
+  "imagen_url": "https://miin-cosmetics.com/5596-large_default/centella-asiatica-extract.jpg",
+  "url_producto": "https://miin-cosmetics.com/993-centella-asiatica-extract.html",
+  "precio": "16,99 € (150 ml)"
+ },
+ {
+  "nombre": "ABC Sorbet Facial Cleanser",
+  "marca": "Unleashia",
+  "formato": "120 ml, full-size",
+  "categoria": "Limpiador",
+  "descripcion": "Limpiador facial vegano con textura de sorbete que se transforma en una espuma suave al contacto con el agua. Elimina impurezas, exceso de sebo y restos de maquillaje mientras exfolia con delicadeza, y puede usarse también como mascarilla. Sin perfume, alcohol ni parabenos, deja la piel limpia sin tirantez.",
+  "ingredientes_clave": [
+   "Ácido salicílico (BHA)",
+   "Glucomanano de konjac",
+   "Niacinamida",
+   "Extractos de manzana, remolacha y zanahoria",
+   "Vitamina C (3-O-etil ascórbico)"
+  ],
+  "modo_de_uso": [
+   "Humedece el rostro y las manos.",
+   "Toma una pequeña cantidad y trabájala con agua hasta formar espuma.",
+   "Masajea con movimientos circulares, insistiendo en la zona T.",
+   "Aclara con agua tibia y seca a toques.",
+   "Úsalo a diario, mañana y/o noche (segundo paso de la doble limpieza); 1-2 veces por semana puedes dejarlo unos minutos como mascarilla."
+  ],
+  "beneficios": [
+   "Limpieza profunda de poros sin resecar",
+   "Exfoliación suave que afina la textura",
+   "Aporta luminosidad a pieles apagadas"
+  ],
+  "tipo_de_piel": "Todo tipo de pieles, especialmente mixtas, grasas o con poros visibles.",
+  "imagen_url": "https://cdn.webshopapp.com/shops/326488/files/491308814/unleashia-abc-sorbet-facial-cleanser.jpg",
+  "url_producto": "https://www.boozyshop.com/products/unleashia-sorbet-cleanser",
+  "precio": "≈ 16,95 €"
+ },
+ {
+  "nombre": "Toalla facial MiiN (Face Towel)",
+  "marca": "MiiN Cosmetics",
+  "formato": "Accesorio exclusivo",
+  "categoria": "Accesorio",
+  "descripcion": "Toalla facial de algodón egipcio con bordado de inspiración coreana, diseño exclusivo de MiiN. Su tamaño compacto la hace ideal para secar el rostro después de la doble limpieza o para llevar en el neceser. Un básico para no usar la misma toalla del cuerpo en la cara.",
+  "ingredientes_clave": [
+   "100 % algodón egipcio",
+   "30 x 30 cm",
+   "Bordado exclusivo MiiN",
+   "Vida útil de 130-150 lavados"
+  ],
+  "modo_de_uso": [
+   "Tras la limpieza facial (mañana y noche), seca la piel con toques suaves, sin frotar.",
+   "Lávala cada 3 días; alterna con otra toalla si puedes.",
+   "Primer lavado por separado, sin suavizante, a máximo 55 ºC.",
+   "Seca a baja temperatura."
+  ],
+  "beneficios": [
+   "Secado suave que respeta la barrera cutánea",
+   "Mayor higiene en la rutina facial",
+   "Tamaño perfecto para viajar"
+  ],
+  "tipo_de_piel": "Todo tipo de pieles, incluidas las sensibles.",
+  "imagen_url": "https://miin-cosmetics.com/11813-large_default/miin-face-towel-duo.jpg",
+  "url_producto": "https://miin-cosmetics.com/1443-miin-face-towel-duo.html",
+  "precio": "4,99 € (dúo)"
+ },
+ {
+  "nombre": "Milk Protein Intensive Hair Oil (Florist & Garden)",
+  "marca": "odiD",
+  "formato": "100 ml, full-size",
+  "categoria": "Cabello",
+  "descripcion": "Aceite capilar ligero y de rápida absorción con un aroma floral a rosa, frambuesa y sándalo. Combina proteínas de leche con seis aceites vegetales para nutrir el cabello seco, reforzar la fibra capilar y aportar brillo sin apelmazar. También protege frente al calor de secador o plancha.",
+  "ingredientes_clave": [
+   "Proteína de leche",
+   "Aceites de argán, jojoba, oliva, aguacate, coco y camelia",
+   "Colágeno hidrolizado",
+   "Queratina hidrolizada",
+   "Proteínas de seda y trigo"
+  ],
+  "modo_de_uso": [
+   "Aplica una pequeña cantidad en la palma y frota las manos.",
+   "Reparte sobre el cabello húmedo o seco, de medios a puntas, evitando la raíz.",
+   "No necesita aclarado.",
+   "Úsalo tras el lavado para sellar la hidratación, o antes del secador/plancha como protector térmico.",
+   "A diario o con cada lavado."
+  ],
+  "beneficios": [
+   "Repara e hidrata el cabello seco y dañado",
+   "Reduce el encrespamiento y las puntas abiertas",
+   "Brillo y suavidad sin efecto graso"
+  ],
+  "tipo_de_piel": "Cabello seco, dañado o encrespado; apto para todo tipo de cabello.",
+  "imagen_url": "https://miin-cosmetics.com/8032-large_default/milk-protein-intensive-hair-oil.jpg",
+  "url_producto": "https://miin-cosmetics.com/1949-milk-protein-intensive-hair-oil.html",
+  "precio": "17,99 €"
+ },
+ {
+  "nombre": "Vitamin A-mazing Bakuchiol Night Cream",
+  "marca": "By Wishtrend",
+  "formato": "30 g, full-size",
+  "categoria": "Crema de noche",
+  "descripcion": "Crema de noche que combina bakuchiol, la alternativa vegetal al retinol, con retinal para trabajar los signos de la edad de forma más tolerable. Ayuda a regenerar la piel y a mejorar su textura y elasticidad con una textura cremosa que no resulta densa ni pegajosa. Su color amarillo se debe al retinal.",
+  "ingredientes_clave": [
+   "Bakuchiol",
+   "Retinal",
+   "Niacinamida",
+   "Centella asiática",
+   "Ceramida NP y ácido hialurónico",
+   "Péptidos y adenosina"
+  ],
+  "modo_de_uso": [
+   "Solo por la noche, tras limpiar, tonificar y aplicar el sérum.",
+   "Dispensa 1-2 pulsaciones y masajea suavemente sobre el rostro, evitando ojos y labios.",
+   "Empieza con poca cantidad y 2-3 noches por semana, sobre todo si tu piel es sensible.",
+   "Aumenta la frecuencia progresivamente según tolerancia.",
+   "A la mañana siguiente, aplica siempre protector solar."
+  ],
+  "beneficios": [
+   "Atenúa líneas de expresión y poros dilatados",
+   "Mejora textura y elasticidad",
+   "Alternativa suave para iniciarse en los retinoides"
+  ],
+  "tipo_de_piel": "Piel madura, normal, seca, apagada o con textura irregular; sensibles con introducción gradual.",
+  "imagen_url": "https://miin-cosmetics.com/7157-large_default/vitamin-a-mazing-bakuchiol-night-cream.jpg",
+  "url_producto": "https://miin-cosmetics.com/1488-vitamin-a-mazing-bakuchiol-night-cream.html",
+  "precio": "30,73 €"
+ },
+ {
+  "nombre": "Caffeine & Green Tea Antioxidant Eye Patches",
+  "marca": "Ondo Beauty 36.5",
+  "formato": "1 par de parches",
+  "categoria": "Contorno de ojos",
+  "descripcion": "Parches de hidrogel para el contorno de ojos con cafeína y té verde que ayudan a descongestionar y aportar luminosidad a la mirada. Hidratan, refrescan al instante y suavizan la apariencia de líneas finas. Fórmula vegana, sin perfume ni aceites esenciales, apta para pieles sensibles.",
+  "ingredientes_clave": [
+   "Extracto de té verde (5 %)",
+   "Niacinamida (2 %)",
+   "Cafeína (1 %)",
+   "Ácido hialurónico",
+   "Extracto de jengibre y vitamina E"
+  ],
+  "modo_de_uso": [
+   "Sobre la piel limpia (AM o PM), coloca un parche bajo cada ojo.",
+   "Déjalos actuar entre 20 y 30 minutos.",
+   "Retíralos y da toques con el sérum sobrante en párpado superior y arco de la ceja; no aclares.",
+   "Úsalos a diario o 1-2 veces por semana. Consejo: guárdalos en la nevera para potenciar el efecto descongestionante."
+  ],
+  "beneficios": [
+   "Reduce bolsas e hinchazón gracias a la cafeína",
+   "Hidrata y aporta luminosidad al contorno",
+   "Suaviza la apariencia de líneas de expresión"
+  ],
+  "tipo_de_piel": "Todo tipo de pieles, incluidas las sensibles.",
+  "imagen_url": "https://miin-cosmetics.com/8690-large_default/caffeine-green-tea-antioxidant-eye-patches.jpg",
+  "url_producto": "https://miin-cosmetics.com/783-caffeine-green-tea-antioxidant-eye-patches.html",
+  "precio": "35,99 € (tarro 60 g)"
+ },
+ {
+  "nombre": "Peine para mascarilla (Hair Mask Comb)",
+  "marca": "MiiN Cosmetics",
+  "formato": "Accesorio exclusivo",
+  "categoria": "Accesorio",
+  "descripcion": "Peine compacto pensado para usar en la ducha: desenreda el cabello húmedo sin tirones y reparte de forma uniforme la mascarilla o el acondicionador de medios a puntas. También sirve para masajear el cuero cabelludo y, por su tamaño, es ideal para el gimnasio o para viajar.",
+  "ingredientes_clave": [
+   "Púas anchas y flexibles",
+   "Diseño compacto y ligero",
+   "Apto para uso en húmedo",
+   "Fácil de limpiar"
+  ],
+  "modo_de_uso": [
+   "Tras el champú, aplica mascarilla o acondicionador sobre el cabello húmedo, de medios a puntas.",
+   "Pasa el peine de medios a puntas para distribuir el producto y desenredar sin tirones.",
+   "Deja actuar la mascarilla el tiempo indicado y aclara.",
+   "Enjuaga el peine tras cada uso y déjalo secar al aire. Úsalo con cada lavado."
+  ],
+  "beneficios": [
+   "Desenreda con suavidad y reduce la rotura",
+   "Reparte la mascarilla de forma homogénea",
+   "Masajea el cuero cabelludo"
+  ],
+  "tipo_de_piel": "Todo tipo de cabellos, especialmente largos, rizados o con tendencia a enredarse.",
+  "imagen_url": "https://miin-cosmetics.com/11686-large_default/hair-mask-comb.jpg",
+  "url_producto": "https://miin-cosmetics.com/2279-hair-mask-comb.html",
+  "precio": "2,99 €"
+ },
+ {
+  "nombre": "Real Shea Butter Nourishing Shampoo",
+  "marca": "Rated Green",
+  "formato": "100 ml, travel-size",
+  "categoria": "Cabello",
+  "descripcion": "Champú nutritivo de origen natural (alrededor del 90 % de ingredientes naturales) con manteca de karité prensada en frío y aceite de semilla de girasol. Limpia con suavidad gracias a tensioactivos delicados y pH ligeramente ácido, mientras aporta brillo, controla el encrespamiento y ayuda a sellar las puntas abiertas.",
+  "ingredientes_clave": [
+   "Manteca de karité prensada en frío",
+   "Aceite de semilla de girasol",
+   "Glicerina",
+   "Extracto de corteza de quillaja",
+   "Tensioactivos suaves derivados del coco"
+  ],
+  "modo_de_uso": [
+   "Humedece bien el cabello y aplica una pequeña cantidad de champú.",
+   "Masajea el cuero cabelludo con la yema de los dedos hasta obtener una espuma ligera.",
+   "Aclara con abundante agua y repite si es necesario.",
+   "Continúa con acondicionador o mascarilla (puedes usar el peine del día 14). Apto para uso diario."
+  ],
+  "beneficios": [
+   "Nutre e hidrata el cabello seco y dañado",
+   "Aporta brillo y controla el encrespamiento",
+   "Limpieza suave que respeta el cuero cabelludo"
+  ],
+  "tipo_de_piel": "Cabello seco, dañado, con puntas abiertas y cuero cabelludo sensible.",
+  "imagen_url": "https://miin-cosmetics.com/10085-large_default/real-shea-butter-nourishing-shampoo.jpg",
+  "url_producto": "https://miin-cosmetics.com/655-real-shea-butter-nourishing-shampoo.html",
+  "precio": "22,20 € (400 g)"
+ },
+ {
+  "nombre": "Natural Cleansing Oil",
+  "marca": "Urang",
+  "formato": "20 ml, travel-size",
+  "categoria": "Limpiador en aceite",
+  "descripcion": "Aceite limpiador y desmaquillante dos en uno elaborado con una mezcla de aceites vegetales, varios de certificación orgánica. Disuelve el maquillaje y el protector solar con suavidad y, al contacto con el agua, se transforma en una emulsión lechosa que limpia sin resecar. 100 % vegano, sin aceites minerales ni fragancias sintéticas.",
+  "ingredientes_clave": [
+   "Aceite de cártamo",
+   "Aceite de hueso de albaricoque",
+   "Aceite de jojoba (orgánico)",
+   "Aceite de girasol (orgánico)",
+   "Aceite de almendras dulces"
+  ],
+  "modo_de_uso": [
+   "Por la noche, con rostro y manos secos, dispensa una dosis de aceite en la palma.",
+   "Masajea suavemente sobre la cara, insistiendo en zonas con maquillaje o puntos negros.",
+   "Humedece las manos con agua templada y sigue masajeando para emulsionar.",
+   "Aclara con abundante agua y continúa con tu limpiador al agua (segundo paso de la doble limpieza). Cada noche."
+  ],
+  "beneficios": [
+   "Desmaquilla y limpia en un solo paso",
+   "Nutre y respeta la barrera cutánea sin dejar sensación grasa",
+   "Alto porcentaje de ingredientes orgánicos"
+  ],
+  "tipo_de_piel": "Piel sensible, seca o que necesita nutrición extra; también normal y mixta.",
+  "imagen_url": "https://miin-cosmetics.com/10726-large_default/natural-cleansing-oil.jpg",
+  "url_producto": "https://miin-cosmetics.com/359-natural-cleansing-oil.html",
+  "precio": "23,49 € (150 g)"
+ },
+ {
+  "nombre": "Popping Balloon Tint",
+  "marca": "Laka",
+  "formato": "4,5 g, full-size",
+  "categoria": "Maquillaje",
+  "descripcion": "Tinte labial coreano de textura ligera y acuosa que deja un acabado jugoso y luminoso, con un ligero efecto volumen que hace que los labios parezcan más rellenos. El color es translúcido y se intensifica capa a capa, sin sensación pegajosa ni acumulación en las líneas de los labios.",
+  "ingredientes_clave": [
+   "Hidroxiprolina (efecto volumen)",
+   "Aminoácidos de colágeno",
+   "Escualano",
+   "Glicerina",
+   "Ácido hialurónico"
+  ],
+  "modo_de_uso": [
+   "Sobre los labios limpios e hidratados, aplica una capa fina con el aplicador flexible.",
+   "Extiende desde el centro hacia los bordes para un degradado natural.",
+   "Añade una segunda o tercera capa si quieres más intensidad.",
+   "Retira al final del día con tu aceite o bálsamo desmaquillante."
+  ],
+  "beneficios": [
+   "Color translúcido y modulable con brillo luminoso",
+   "Efecto labios más llenos y rebotantes",
+   "Hidratación duradera sin sensación pegajosa"
+  ],
+  "tipo_de_piel": "Todo tipo de labios, especialmente secos o con tendencia a agrietarse.",
+  "imagen_url": "https://cdn.webshopapp.com/shops/243452/files/501338846/laka-popping-balloon-tint.jpg",
+  "url_producto": "https://www.littlewonderland.nl/en/laka-popping-balloon-tint.html",
+  "precio": ""
+ },
+ {
+  "nombre": "Guava Moisture Soothing Serum",
+  "marca": "Benton",
+  "formato": "10 ml, travel-size",
+  "categoria": "Sérum",
+  "descripcion": "Sérum hidratante y calmante con extracto de hoja de guayaba de Jeju, rico en antioxidantes, combinado con diez tipos de ácido hialurónico de distinto peso molecular. Su textura ligera con microgotas de aceite rellena la piel, refuerza la barrera cutánea y deja un acabado fresco y luminoso, perfecto como base de maquillaje. Sin fragancia ni aceites minerales.",
+  "ingredientes_clave": [
+   "Extracto de hoja de guayaba",
+   "Complejo de 10 ácidos hialurónicos",
+   "Niacinamida",
+   "Pantenol",
+   "Ceramida NP y ácido tranexámico"
+  ],
+  "modo_de_uso": [
+   "Tras limpiar y tonificar (AM y PM), aplica 2-3 gotas sobre el rostro.",
+   "Extiende con un suave masaje y da toques hasta su absorción.",
+   "Añade una gota extra en las zonas más secas si lo necesitas.",
+   "Sella con tu crema hidratante y, por la mañana, termina con protector solar."
+  ],
+  "beneficios": [
+   "Hidratación profunda en varias capas",
+   "Calma rojeces y refuerza la barrera cutánea",
+   "Unifica el tono y aporta luminosidad"
+  ],
+  "tipo_de_piel": "Todo tipo de pieles, incluidas sensibles, secas, mixtas y grasas.",
+  "imagen_url": "https://cdn.webshopapp.com/shops/243452/files/495009705/benton-guava-moisture-soothing-serum.jpg",
+  "url_producto": "https://www.littlewonderland.nl/en/benton-guava-moisture-soothing-serum.html",
+  "precio": ""
+ },
+ {
+  "nombre": "Calming Lotus Cream",
+  "marca": "Rovectin",
+  "formato": "60 ml, full-size",
+  "categoria": "Crema",
+  "descripcion": "Crema facial hidratante de textura ligera y absorción rápida formulada con un 75 % de agua de flor de loto. Está pensada para pieles que se irritan con facilidad: calma, aporta confort y ayuda a defender la piel frente a la contaminación y los cambios de temperatura. Deja un acabado uniforme y luminoso sin sensación pesada.",
+  "ingredientes_clave": "Agua de flor de loto (Nelumbo nucifera) | Niacinamida | Pantenol | Alantoína | Aceite de almendras dulces",
+  "modo_de_uso": "Tras limpiar la piel y aplicar tónico y sérum, toma una cantidad del tamaño de una avellana. | Extiéndela por rostro y cuello. | Masajea suavemente hasta su completa absorción. | Si tienes la piel muy seca, aplica una capa más generosa. | Úsala mañana y noche como último paso de la rutina (por la mañana, antes del protector solar).",
+  "beneficios": "Hidrata y suaviza la piel | Calma la irritación y la sensación de tirantez | Protege frente a agresores ambientales y aporta luminosidad",
+  "tipo_de_piel": "Piel sensible, seca, mixta y con tendencia a irritarse. Vegana y apta durante el embarazo.",
+  "imagen_url": "https://miin-cosmetics.com/9737-large_default/calming-lotus-cream.jpg",
+  "url_producto": "https://miin-cosmetics.com/1891-calming-lotus-cream.html",
+  "precio": "21,99 €"
+ },
+ {
+  "nombre": "Serum: Retinal Liposome 2% + Black Ginseng",
+  "marca": "SEOUL 1988 by K-SECRET",
+  "formato": "30 ml, full-size",
+  "categoria": "Sérum",
+  "descripcion": "Sérum antiedad de noche que combina retinal encapsulado en liposomas al 2 % con ginseng negro. La encapsulación permite que el retinal se libere de forma gradual, lo que mejora la tolerancia sin renunciar a eficacia. Afina la textura, suaviza las líneas de expresión y devuelve firmeza y luminosidad con una textura ligera que se absorbe rápido.",
+  "ingredientes_clave": "Retinal liposomado | Extracto de raíz de ginseng negro | Niacinamida | Bakuchiol | Adenosina y péptidos",
+  "modo_de_uso": "Por la noche, tras limpieza y tónico, aplica una pequeña cantidad sobre el rostro evitando el contorno de ojos. | Masajea hasta su absorción y sella con tu crema hidratante. | Empieza con 2-3 noches por semana y aumenta la frecuencia según la tolerancia de tu piel. | Si lo usas de día, aplica siempre protector solar después. | Introdúcelo de forma gradual y no lo combines con exfoliantes fuertes las mismas noches.",
+  "beneficios": "Mejora la firmeza y la textura de la piel | Suaviza líneas de expresión | Aporta luminosidad sin sensación grasa",
+  "tipo_de_piel": "Piel mixta y piel madura; también pieles apagadas o sin luminosidad.",
+  "imagen_url": "https://miin-cosmetics.com/11459-large_default/serum-retinal-liposome-2-black-ginseng.jpg",
+  "url_producto": "https://miin-cosmetics.com/2201-serum-retinal-liposome-2-black-ginseng.html",
+  "precio": "19,99 €"
+ },
+ {
+  "nombre": "Glutathione Niacinamide Facial Cream",
+  "marca": "APLB",
+  "formato": "55 ml, full-size",
+  "categoria": "Crema",
+  "descripcion": "Crema facial multifunción de textura ligera, tipo loción, para usar de día y de noche. Reúne glutatión y niacinamida para iluminar y unificar el tono, con centella asiática que calma y adenosina que ayuda a mantener la elasticidad. Adecuada para todo tipo de pieles, incluidas las sensibles y deshidratadas, y apta durante el embarazo.",
+  "ingredientes_clave": "Glutatión | Niacinamida | Centella asiática | Adenosina | Escualano y ácido hialurónico",
+  "modo_de_uso": "Después del tónico o el sérum, toma una cantidad moderada de crema. | Extiéndela desde el centro del rostro hacia fuera. | Da pequeños toques con las yemas de los dedos para favorecer la absorción. | Úsala mañana y noche como último paso de la rutina (de día, antes del protector solar).",
+  "beneficios": "Hidrata y calma las pieles sensibles | Unifica el tono y aporta luminosidad | Mejora la elasticidad y la textura",
+  "tipo_de_piel": "Todo tipo de pieles, especialmente sensibles y deshidratadas. Apta durante el embarazo.",
+  "imagen_url": "https://miin-cosmetics.com/9635-large_default/glutathione-niacinamide-facial-cream.jpg",
+  "url_producto": "https://miin-cosmetics.com/1927-glutathione-niacinamide-facial-cream.html",
+  "precio": "10,99 €"
+ },
+ {
+  "nombre": "Rosemary Root Enhancer",
+  "marca": "Aromatica",
+  "formato": "30 ml, travel-size",
+  "categoria": "Cabello",
+  "descripcion": "Tónico capilar en spray, sin aclarado, pensado para sanear las raíces y dar volumen desde el cuero cabelludo. Inspirado en las rutinas capilares coreanas, combina extracto de romero con biotina, soja negra y mora de cultivo ecológico. Vegano, sin sulfatos, siliconas ni parabenos.",
+  "ingredientes_clave": "Extracto y aceite esencial de romero | Biotina (vitamina B7) | Extracto de soja negra | Mora blanca ecológica | Aceites esenciales de lavanda, naranja y menta",
+  "modo_de_uso": "Tras el champú y el acondicionador, seca el cabello con toalla. | Pulveriza el tónico sobre el cuero cabelludo y las raíces. | Masajea con las yemas de los dedos para activar la circulación. | No aclares; peina y seca como de costumbre. | Puede usarse a diario, mañana o noche. Evita el contacto con los ojos.",
+  "beneficios": "Fortalece las raíces del cabello | Aporta volumen desde la raíz | Cuida y refresca el cuero cabelludo",
+  "tipo_de_piel": "Todo tipo de cabello, especialmente cabello fino o sin volumen y cueros cabelludos que necesitan equilibrio.",
+  "imagen_url": "https://miin-cosmetics.com/6023-large_default/rosemary-root-enhancer.jpg",
+  "url_producto": "https://miin-cosmetics.com/490-rosemary-root-enhancer.html",
+  "precio": "18,99 € (100 ml)"
+ },
+ {
+  "nombre": "Caffein-E Boost Eye Cream",
+  "marca": "Meisani",
+  "formato": "15 ml, full-size",
+  "categoria": "Contorno de ojos",
+  "descripcion": "Contorno de ojos que une cafeína, vitamina E y tres tipos de ácido hialurónico para hidratar, descongestionar y despertar la mirada. Su fórmula refuerza la barrera cutánea y ayuda a evitar la pérdida de agua en una zona especialmente fina y delicada. Incluye un complejo antioxidante botánico con resveratrol, cúrcuma, té verde y espino amarillo. Vegano.",
+  "ingredientes_clave": "Cafeína (1 %) | Vitamina E (tocoferol) | Tres tipos de ácido hialurónico | Manteca de karité | Complejo antioxidante (resveratrol, cúrcuma, té verde, espino amarillo)",
+  "modo_de_uso": "Con la piel limpia y tras el sérum, toma una pequeña gota de producto. | Deposítala sobre el hueso orbital, bajo el ojo y en el párpado móvil. | Extiende con el dedo anular dando toques ligeros, sin arrastrar la piel. | Úsalo mañana y/o noche, antes de la crema facial. | Por la mañana, deja que se absorba antes del protector solar.",
+  "beneficios": "Hidrata y suaviza el contorno | Reduce el aspecto de bolsas y la mirada cansada | Protege con antioxidantes y refuerza la barrera",
+  "tipo_de_piel": "Todo tipo de pieles; especialmente contornos secos, con bolsas o signos de cansancio.",
+  "imagen_url": "https://miin-cosmetics.com/11366-large_default/caffein-e-boost-eye-cream.jpg",
+  "url_producto": "https://miin-cosmetics.com/2180-caffein-e-boost-eye-cream.html",
+  "precio": "21,99 €"
+ },
+ {
+  "nombre": "Bean Sun Serum SPF50+ PA++++",
+  "marca": "mixsoon",
+  "formato": "50 ml, full-size",
+  "categoria": "Protector solar",
+  "descripcion": "Protector solar facial con textura de sérum y protección muy alta SPF50+ PA++++ frente a UVA y UVB mediante filtros químicos. Además de proteger, hidrata y aporta un cuidado antioxidante gracias a fermentos de soja, cebada, pera y granada. Se funde con la piel sin dejar rastro blanco ni sensación pegajosa.",
+  "ingredientes_clave": "Fermentos de soja, cebada, pera y granada | Niacinamida | Ácido hialurónico | Adenosina | Glicerina",
+  "modo_de_uso": "Cada mañana, como último paso de la rutina de día, tras la crema hidratante. | Aplica una cantidad generosa de forma uniforme por rostro y cuello, unos 15-20 minutos antes de la exposición solar. | Deja que se absorba antes de maquillarte. | Reaplica cada dos horas si sigues expuesto al sol, sobre todo tras sudar o bañarte. | Úsalo a diario, también en días nublados.",
+  "beneficios": "Protección solar muy alta sin marcas blancas | Hidrata y unifica el tono | Acción antioxidante y suavizado de líneas finas",
+  "tipo_de_piel": "Todo tipo de pieles: grasa, mixta, seca, normal, sensible y madura. Vegano.",
+  "imagen_url": "https://miin-cosmetics.com/11544-large_default/bean-sun-serum.jpg",
+  "url_producto": "https://miin-cosmetics.com/2222-bean-sun-serum.html",
+  "precio": "25,99 €"
+ }
+]
